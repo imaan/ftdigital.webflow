@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="24px" height="24px" viewBox="0 0 24 24" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>banknote-off</title>
+    <g id="a" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round" stroke-linejoin="round">
+        <g id="Artboard" transform="translate(-79.000000, -33.000000)" stroke-width="2">
+            <g id="Stroke" transform="translate(80.000300, 34.000000)">
+                <path d="M22,14.9287 L22,3.9347 C22,3.1517 21.372,2.3317 20.589,2.1827 C17.52,1.5987 13.967,2.5257 10.44,3.3697" stroke="#8DCCF4"></path>
+                <path d="M0,7.0713 L0,18.0653 C0,18.8993 0.576,19.6573 1.41,19.8163 C4.481,20.4013 8.034,19.4743 11.56,18.6313" stroke="#8DCCF4"></path>
+                <line x1="0" y1="0" x2="22" y2="22" stroke="#2A5491"></line>
+            </g>
+        </g>
+    </g>
+</svg>
